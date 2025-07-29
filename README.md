@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Ibraam
+## 👋 Hi, I’m Ibraam Seddik
 
 - 🔭 I build machine learning projects that turn research into useful real-world tools.
 - 🧠 My work includes an RL trading bot, a legal RAG assistant using LLMs, and a movie genre classifier.
